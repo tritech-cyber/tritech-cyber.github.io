@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><title>repos</title>
+<style>
+		a{
+			text-decoration: none;
+		}
+
+		a.link{
+			display:inline-block;
+			font-family:sans-serif;
+			font-size: 18px;
+			background-color:#fff;
+			border-style: solid;
+			border-color: #fdf6e3;
+			border-width: thin;
+			color:#777;
+			text-decoration: none;
+		}
+
+		a.link:hover{
+			background-color: #eee8d5;
+		}
+
+
+	</style>
+</head>
+
+<body>
+Tri-Tech Cyber Security Repositories
+ <hr />
+<table>
+<tr>
+	<td>
+		<pre>
+			Required Repos:
+			html
+			http
+			python
+			networking
+			ccode
+			java
+			nodejs
+			php
+			bash
+			sql
+			username.github.io
+		</pre>
+  </td>
+<td>
+AM <br />
+<a href = "https://github.com/Masoninja?tab=repositories" class = "link" target = "_blank"> Mason	A </a><br />
+<a href = "https://github.com/ElonMusk2018?tab=repositories" class = "link" target = "_blank">Christopher	B</a><br />
+Gabriel	D<a href = "https://github.com/ NAME ?tab=repositories" class = "link" target = "_blank"> NAME </a><br />
+Jorge	D <a href = "https://github.com/ NAME ?tab=repositories" class = "link" target = "_blank"> NAME </a><br />
+<a href = "https://github.com/JorgeFernandezJr?tab=repositories" class = "link" target = "_blank"> Jorge	F </a><br />
+Braeden	F <a href = "https://github.com/ NAME ?tab=repositories" class = "link" target = "_blank"> NAME </a><br />
+<a href = "https://github.com/Ngrade7?tab=repositories" class = "link" target = "_blank"> Niklas	G </a><br />
+<a href = "https://github.com/EvanIsakson00?tab=repositories" class = "link" target = "_blank"> Evan	I </a><br />
+<a href = "https://github.com/Erduin17?tab=repositories" class = "link" target = "_blank"> Erduin	M </a><br />
+<a href = "https://github.com/NoahMcGe?tab=repositories" class = "link" target = "_blank"> Noah	M	</a><br />
+Tyler	S	<a href = "https://github.com/ NAME ?tab=repositories" class = "link" target = "_blank"> NAME </a><br />
+ <a href = "https://github.com/esperanzavillasenor?tab=repositories" class = "link" target = "_blank"> Esperanza	V </a><br />
+<a href = "https://github.com/42silasweis?tab=repositories" class = "link" target = "_blank"> Silas W </a><br />
+
+<hr />
+<a href = "https://github.com/ObadiahBorms02?tab=repositories" class = "link" target = "_blank">Obby B</a><br />
+<a href = "https://github.com/S3thBr0wn?tab=repositories" class = "link" target = "_blank">Seth B</a> <br />
+<a href = "https://github.com/DevonChen42?tab=repositories" class = "link" target = "_blank">Devon C</a> <br />
+<a href = "https://github.com/BCooper58?tab=repositories" class = "link" target = "_blank">Brenden C</a> <br />
+<a href = "https://github.com/NathanHigley?tab=repositories" class = "link" target = "_blank">Nathan H</a> <br />
+<a href = "https://github.com/EvanRichard2?tab=repositories"  class = "link" target = "_blank">Evan R</a> <br />
+</left>
+</td>
+
+<td>
+PM <br />
+<a href = "https://github.com/aces14?tab=repositories" class = "link" target = "_blank"> Javier	A </a><br />
+Juan	B <a href = "https://github.com/ NAME ?tab=repositories" class = "link" target = "_blank"> NAME </a><br />
+Jaden	B <a href = "https://github.com/ NAME ?tab=repositories" class = "link" target = "_blank"> NAME </a><br />
+Gerardo	G <a href = "https://github.com/ NAME ?tab=repositories" class = "link" target = "_blank"> NAME </a><br />
+Ivan	G <a href = "https://github.com/ NAME ?tab=repositories" class = "link" target = "_blank"> NAME </a><br />
+Mason	G  <a href = "https://github.com/ NAME ?tab=repositories" class = "link" target = "_blank"> NAME </a><br />
+Ryan	H  <a href = "https://github.com/ NAME ?tab=repositories" class = "link" target = "_blank"> NAME </a><br />
+Jonathan	M  <a href = "https://github.com/ NAME ?tab=repositories" class = "link" target = "_blank"> NAME </a><br />
+Gregory	M  <a href = "https://github.com/ NAME ?tab=repositories" class = "link" target = "_blank"> NAME </a><br />
+<a href = "https://github.com/cmtthomas?tab=repositories" class = "link" target = "_blank"> Caleb	T </a><br />
+Trey	T  <br />
+<a href = "https://github.com/ NAME ?tab=repositories" class = "link" target = "_blank"> NAME </a><br />
+<hr />
+<a href = "https://github.com/bryan1998?tab=repositories" class = "link" target = "_blank">Bryan H</a>
+<a href = "https://github.com/TrihstonMadden?tab=repositories" class = "link"  target = "_blank">Trihston M</a>
+<br />
+
+</td>
+</tr>
+</table>
+
+<div style="background-color:#292a88; color:white;padding:1px;">#292a88;</div>
+<div style="background-color:#425c9f; color:white;padding:1px;">#425c9f;</div>
+<div style="background-color:#6981c7; color:white;padding:1px;">#6981c7;</div>
+<div style="background-color:#8eb1e1; color:white;padding:1px;">#8eb1e1;</div>
+<div style="background-color:#c2dcff; color:white;padding:1px;">#c2dcff;</div>
+
+<div style="background-color:#002b36; color:white;padding:1px;">#002b36;</div>
+<div style="background-color:#073642; color:white;padding:1px;">#073642;</div>
+<div style="background-color:#586e75; color:white;padding:1px;">#586e75;</div>
+<div style="background-color:#657b83; color:white;padding:1x;">#657b83;</div>
+<div style="background-color:#839496; color:white;padding:1px;">#839496;</div>
+<div style="background-color:#93a1a1; color:white;padding:1px;">#93a1a1;</div>
+<div style="background-color:#eee8d5; color:white;padding:1px;">#eee8d5;</div>
+<div style="background-color:#fdf6e3; color:white;padding:1px;">#fdf6e3;</div>
+<div style="background-color:#b58900; color:white;padding:1px;">#b58900;</div>
+<div style="background-color:#cb4b16; color:white;padding:1px;">#cb4b16;</div>
+<div style="background-color:#dc322f; color:white;padding:1px;">#dc322f;</div>
+<div style="background-color:#d33682; color:white;padding:1px;">#d33682;</div>
+<div style="background-color:#6c71c4; color:white;padding:1px;">#6c71c4;</div>
+<div style="background-color:#268bd2; color:white;padding:1px;">#268bd2;</div>
+<div style="background-color:#2aa198; color:white;padding:1px;">#2aa198;</div>
+<div style="background-color:#859900; color:white;padding:1px;">#859900;</div>
+</center>
+
+  </body>
+</html>
