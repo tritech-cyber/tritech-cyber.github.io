@@ -1,0 +1,38 @@
+DOCUMENT EXAMPLE
+OSI (Open Systems Interconnection)
+OSI LAYER
+LABEL
+OSI LAYER
+DESCRIPTION
+PROTOCOLS
+7 - Application
+Network Process to Application
+
+HTTP, SSH,FTP
+6 - Presentation
+Data Representation and Encryption
+
+PDF, GIF
+5 - Session
+Internet Communication
+
+NETBIOS,
+TCP/IP
+4 - Transport
+End-to-End Connections and Reliability
+
+TCP,UDP
+3 - Need
+Logical Addressing (IP) and Path Determination
+
+PACKETS, IPV4, IPV6 ICMP
+2 - Data Link
+Physical Addressing (MAC and LLC)
+
+FRAMES, ETHERNET, PPP, SWITCH
+1 - Physical
+Media, signal and binary transmission
+
+Physical network topology, like bus, ring, mesh or star network
+
+URL of an epic company https://www.hecate.com/
