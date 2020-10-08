@@ -3,6 +3,7 @@
 <html>
 <head><title>tritech-cyber.github.io</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="css/custom.bootstrap.min.css">
 <style>
 * {
     box-sizing: border-box;
@@ -24,13 +25,50 @@ html {
 }
 body{
     margin:0;    padding: 0;
-    background:#fdf6e3;
-    color: #002b36;;
+    background-color:  #bdc3c7;
+    color: #2c3e50;
     }
+    .showcolor { display: inline-block; padding: 2px 3px 2px 3px ; margin: 1px 1px 1px 1px; }
+       .block { display: inline-block; font-size: 16px; font-weight: bold; padding: 3px 13px 3px 13px ; margin: 3px 3px 3px 3px; }
+        .smallblock { display: inline-block; font-size: 7px; font-weight: bold; margin: 0px 0px 0px 0px;}
+        .flat00-background { background-color: #2c3e50; }
+        .flat01-background { background-color: #34495e; }
+        .flat02-background { background-color: #7f8c8d; }
+        .flat03-background { background-color: #95a5a6; }
+        .flat04-background { background-color: #bdc3c7; }
+        .flat05-background { background-color: #e0e0e0; }
+        .flat06-background { background-color: #f5f5f5; }
+        .flat07-background { background-color: #ecf0f1; }
+        .flat08-background { background-color: #e74c3c; }
+        .flat09-background { background-color: #e67e22; }
+        .flat0a-background { background-color: #f1c40f; }
+        .flat0b-background { background-color: #2ecc71; }
+        .flat0c-background { background-color: #1abc9c; }
+        .flat0d-background { background-color: #3498db; }
+        .flat0e-background { background-color: #9b59b6; }
+        .flat0f-background { background-color: #be643c; }
+        .celeste-background{ background-color: #7ab09f; }
+        .flat00 { color: #2c3e50; }
+        .flat01 { color: #34495e; }
+        .flat02 { color: #7f8c8d; }
+        .flat03 { color: #95a5a6; }
+        .flat04 { color: #bdc3c7; }
+        .flat05 { color: #e0e0e0; }
+        .flat06 { color: #f5f5f5; }
+        .flat07 { color: #ecf0f1; }
+        .flat08 { color: #e74c3c; }
+        .flat09 { color: #e67e22; }
+        .flat0a { color: #f1c40f; }
+        .flat0b { color: #2ecc71; }
+        .flat0c { color: #1abc9c; }
+        .flat0d { color: #3498db; }
+        .flat0e { color: #9b59b6; }
+        .flat0f { color: #be643c; }
+        .celeste{ color: #7ab09f; }
 
 .header {
-    background-color: #eee8d5;
-    color: #002b36;
+    background-color:   #7f8c8d;
+    color: #2c3e50;
     font-weight: bold;
     padding: 15px;
 }
@@ -60,8 +98,8 @@ body{
     font-size: 14px;
 }
 .footer {
-    background-color: #fdf6e3;
-    color: #000;
+  background-color: #7f8c8d;
+  color: #2c3e50;
     text-align: center;
     font-size: 12px;header
     padding: 15px;
@@ -111,7 +149,6 @@ a{
 </head>
 
 <body>
-
 <div class="header">
   	TriTech-Cyber.github.io
 </div>
@@ -121,31 +158,20 @@ a{
   <ul>
     <li><a href = "osi/index.html" target = "_blank"> OSI (Open Systems Interconnection)</a></li>
    <li><a href = "https://github.com/tritech-cyber?tab=repositories" target = "_blank"> tritech-cyber repo</a></li>
-   <li><a href = "https://github.com/ttcyber" target = "_blank"> ttcyber old repos</a></li>
-   <li> &nbsp;&nbsp;&nbsp;&nbsp;</li>
-
-   <li><a href = "repos.html" target = "iframea">*?tab=repositories</a></li>
-   <li><a href = "colemanparts.html" target = "_blank"> Coleman Computer Parts Grid Example </a></li>
-   <li><a href = "computerparts.html" target = "_blank"> Coleman Computer Parts Another Example </a></li>
-   <li><a href = "computer-build-form.html" target = "_blank">Computer Build Template html </a></li>
 
   </ul>
 </div>
 
 <div class="col-6 col-m-9">
-<div class="menu">
-    <ul>
-    <li><a href = "repos.html" target = "iframea">*?tab=repositories</a></li>
-      <li><a href = "sites.html" target = "_blank">users.github.io sites 2020-2021</a></li>
+  <a href = "repos.html" target = "_blank"><button type="button" class="btn btn-celeste s00">user*?tab=repositories</button></a>
+  <a href = "sites.html" target = "_blank"><button type="button" class="btn btn-celeste s00">users.github.io sites 2020-2021</button></a>
 
-    </ul>
-  </div>
 <pre>
 github.com commands
 $git pull
 -- edit files --
 $git add -A
-$git commit -m "AA BE NICE"
+$git commit -m "comment"
 $git push
 
 Configure your computer
@@ -165,11 +191,26 @@ $git config --list
 </div>
 </div>
 <div class="footer">
-<div style="background-color:#002b36;; color:white;padding:1px;">&nbsp;</div>
-<div style="background-color:#268bd2; color:white;padding:1px;">0010 1010</div>
-<div style="background-color:#2aa198; color:white;padding:1px;">1000 0000</div>
-<div style="background-color:#eee8d5; color:white;padding:1px;">&nbsp;</div>
-
+  <div class="block flat00-background flat07">00</div>
+     <div class="block flat01-background flat07">01</div>
+     <div class="block flat02-background flat07">02</div>
+     <div class="block flat03-background flat07">03</div>
+     <div class="block flat04-background flat00">04</div>
+     <div class="block flat05-background flat00">05</div>
+     <div class="block flat06-background flat00">06</div>
+     <div class="block flat07-background flat00">07</div>
+     <br />
+     <div class="block flat08-background flat07">08</div>
+     <div class="block flat09-background flat07">09</div>
+     <div class="block flat0a-background flat07">0a</div>
+     <div class="block flat0b-background flat07">0b</div>
+     <div class="block flat0c-background flat07">0c</div>
+     <div class="block flat0d-background flat07">0d</div>
+     <div class="block flat0e-background flat07">0e</div>
+     <div class="block flat0f-background flat07">0f</div>
+     <br />
+     <div class="block celeste-background flat07">0f</div>
+   </div>
 
 </div>
 
