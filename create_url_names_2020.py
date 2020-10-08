@@ -12,15 +12,15 @@ def string_concat_io(a):
     return b
 
 def main():
-	users = ('MagickalWiz','ulises-aguilar','bennythejet1', 'CPlusPlusNewb','alejandrorebolledo',  'logan-benner',
-    			'mini-ray', 'supernaiian','ThatGuyJuan','Bouncyskoda','ShawnR7305','jkiik',
-                'StrawberryIdiot','Osvaldoolivera','Axel-2002','danielbrogan26','taj-s','IrishPotato101')
+	users = ('magickalwiz','ulises-aguilar','bennythejet16', 'cplusplusnewb','alejandrorebolledo',  'logan-benner',
+    			'mini-ray', 'supernaiian','thatguyjuan','bouncyskoda','shawnr7305','jkiik',
+                'strawberryidiot','osvaldoolivera','axel-2002','danielbrogan26','taj-s','irishpotato101','awkwardpossum')
 
 	for n in range (0,len(users)):
 		a = users[n]
 		b = string_concat_io(a)
 		print(b)
-		
+
 	print("\n\n * * * * * * * * \n\n")
 	for n in range (0,len(users)):
 		a = users[n]
