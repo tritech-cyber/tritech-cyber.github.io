@@ -5,22 +5,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" href="css/custom.bootstrap.min.css">
 <style>
-* {
-    box-sizing: border-box;
-}
-.row::after {
-    content: "";
-    clear: both;
-    display: table;
-}
-[class*="col-"] {
-    float: left;
-    padding: 10px;
-}
 
 html {
-    margin: 0 !important;
-    padding: 0 !important;
+    margin: 0 ;
+    padding: 0 ;
     font-family: system-ui, sans-serif;
 }
 body{
@@ -106,44 +94,12 @@ body{
 }
 
 a{
-	color: #2aa198;
+	color: #71b09f;
+	 background-color: #e0e0e0;
 	text-decoration: none;
-}
-/* For mobile phones: */
-[class*="col-"] {
-    width: 100%;
+	padding: 3px 3px 3px 3px;
 }
 
-
-@media only screen and (min-width: 600px) {
-    /* For tablets: */
-    .col-m-1 {width: 8.33%;}
-    .col-m-2 {width: 16.66%;}
-    .col-m-3 {width: 25%;}
-    .col-m-4 {width: 33.33%;}
-    .col-m-5 {width: 41.66%;}
-    .col-m-6 {width: 50%;}
-    .col-m-7 {width: 58.33%;}
-    .col-m-8 {width: 66.66%;}
-    .col-m-9 {width: 75%;}
-    .col-m-10 {width: 83.33%;}
-    .col-m-11 {width: 91.66%;}
-    .col-m-12 {width: 100%;}
-}
-@media only screen and (min-width: 768px) {
-    /* For desktop: */
-    .col-1 {width: 8.33%;}
-    .col-2 {width: 16.66%;}
-    .col-3 {width: 25%;}
-    .col-4 {width: 33.33%;}
-    .col-5 {width: 41.66%;}
-    .col-6 {width: 50%;}
-    .col-7 {width: 58.33%;}
-    .col-8 {width: 66.66%;}
-    .col-9 {width: 75%;}
-    .col-10 {width: 83.33%;}
-    .col-11 {width: 91.66%;}
-    .col-12 {width: 100%;}
 }
 </style>
 </head>
@@ -153,18 +109,16 @@ a{
   	TriTech-Cyber.github.io
 </div>
 
-<div class="row">
-<div class="col-3 col-m-3 menu">
-  <ul>
-    <li><a href = "osi/index.html" target = "_blank"> OSI (Open Systems Interconnection)</a></li>
-   <li><a href = "https://github.com/tritech-cyber?tab=repositories" target = "_blank"> tritech-cyber repo</a></li>
+  <div class="row">
+     <div class="col-sm-4 ">
+	<a href = "osi/index.html" target = "_blank"> OSI (Open Systems Interconnection)</a> <br />
+	<a href = "https://github.com/tritech-cyber?tab=repositories" target = "_blank"> tritech-cyber repositories</a>
+	</div>
 
-  </ul>
-</div>
 
-<div class="col-6 col-m-9">
-  <a href = "repos.html" target = "_blank"><button type="button" class="btn btn-celeste s00">user*?tab=repositories</button></a>
-  <a href = "sites.html" target = "_blank"><button type="button" class="btn btn-celeste s00">users.github.io sites 2020-2021</button></a>
+<div class="col-sm-4 block">
+  <a href = "repos.html" target = "_blank">user*?tab=repositories</a><br />
+  <a href = "sites.html" target = "_blank">users.github.io sites 2020-2021</a>
 
 <pre>
 github.com commands
@@ -186,9 +140,11 @@ $git config --list
 
 </div>
 
-<div class="col-3 col-m-12">
+<div class="col-sm-2 block">
   <img src = "img/zoey3.jpg" height = "200px"><br />
 </div>
+
+
 </div>
 <div class="footer">
   <div class="block flat00-background flat07">00</div>
