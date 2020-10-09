@@ -15,7 +15,7 @@ def main():
 	users = ('magickalwiz','ulises-aguilar','bennythejet16', 'cplusplusnewb','alejandrorebolledo',  'logan-benner',
     			'mini-ray', 'supernaiian','thatguyjuan','bouncyskoda','shawnr7305','jkiik',
                 'strawberryidiot','osvaldoolivera','axel-2002','danielbrogan26','taj-s','irishpotato101','awkwardpossum',
-                'DemonDrew0508')
+                'DemonDrew0508','Calebpro22','MiguelAlcalan2020')
 
 	for n in range (0,len(users)):
 		a = users[n]
@@ -49,7 +49,8 @@ taj-s
 IrishPotato101
 Logan-Benner
 
-
+Calebpro22
+MiguelAlcalan2020
 '''
 
 
