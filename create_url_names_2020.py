@@ -12,11 +12,29 @@ def string_concat_io(a):
     return b
 
 def main():
-	users = ('magickalwiz','ulises-aguilar','bennythejet16', 'cplusplusnewb','alejandrorebolledo',  'logan-benner',
-    			'mini-ray', 'supernaiian','thatguyjuan','bouncyskoda','shawnr7305','jkiik',
-                'strawberryidiot','osvaldoolivera','axel-2002','danielbrogan26','taj-s','irishpotato101','awkwardpossum',
-                'DemonDrew0508','Calebpro22','MiguelAlcalan2020')
-
+	users = ('ThatGuyJuan',
+'Bouncyskoda',
+'Bennythejet16',
+'ulises-aguilar',
+'ShawnR7305',
+'Warghost13',
+'jkiik',
+'StrawberryIdiot',
+'Osvaldoolivera',
+'Axel-2002',
+'MagickalWiz',
+'danielbrogan26',
+'taj-s',
+'IrishPotato101',
+'Logan-Benner',
+'AwkwardPossum',
+'Bennythejet16',
+'DemonDrew0508',
+'Calebpro22',
+'MiguelAlcalan2020',
+'NoorAlrubai',
+'GerardoAmezcua092',
+'cplusplusnewb')
 	for n in range (0,len(users)):
 		a = users[n]
 		b = string_concat_io(a)
@@ -32,7 +50,7 @@ if __name__ == '__main__':
     main()
 
 '''
-http://github.com/icebowl
+icebowl
 ThatGuyJuan
 Bouncyskoda
 Bennythejet16
@@ -48,9 +66,14 @@ danielbrogan26
 taj-s
 IrishPotato101
 Logan-Benner
-
+AwkwardPossum
+Bennythejet16
+DemonDrew0508
 Calebpro22
 MiguelAlcalan2020
+NoorAlrubai
+GerardoAmezcua092
+cplusplusnewb
 '''
 
 
