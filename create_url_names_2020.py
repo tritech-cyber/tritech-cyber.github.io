@@ -34,7 +34,11 @@ def main():
 'MiguelAlcalan2020',
 'NoorAlrubai',
 'GerardoAmezcua092',
-'cplusplusnewb')
+'cplusplusnewb',
+'supernaiian',
+'kernelpanicts',
+'fruztalprojects'
+)
 	for n in range (0,len(users)):
 		a = users[n]
 		b = string_concat_io(a)
