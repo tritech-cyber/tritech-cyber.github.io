@@ -30,7 +30,7 @@ def main():
 ,	['T,Axel','Axel-2002']
 ,	['V,Juan','ThatGuyJuan']
 ,	['-','-']
-,	['A,Noor',' NoorAlrubai']
+,	['A,Noor','NoorAlrubai']
 ,	['A,Gerardo ','GerardoAmezcua092']
 ,	['C,Caelan ','***']
 ,	['F,Caleb ','Calebpro22']
